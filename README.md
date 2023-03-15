@@ -1,7 +1,7 @@
 # My #100DaysOfCode Journey
 
-**Phani Chirumamilla**  
-*Data Analyst* 
+***Phani Chirumamilla**
+*Data Analyst*
 
 ## Timeline
 
