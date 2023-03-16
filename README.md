@@ -7,17 +7,16 @@
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|March 5, 2023| Intro to Python Programming | [Udemy](https://www.udemy.com/course/100-days-of-code/)|
-|Day 2|March 6, 2023| Loops & Variables | [Practise]()|
-|Day 3|June 1, 2020| Updated functionality of Project: **Face Mask Detection** | [Reference Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)|
-|Day 4|June 2, 2020| Major Project: **Face Mask Detection** | [Project Repo](https://github.com/chandrikadeb7/Face-Mask-Detection)|
-|Day 5|June 3, 2020| Python Lessons | |
-|Day 6|June 4, 2020| Submitted project for **30DaysOfKotlin** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
-|Day 7|June 5, 2020| Event **Coderantine** | Event Over :white_check_mark:|
-|Day 8|June 6, 2020| Learnt Kotlin extensions & generics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 9|March 15, 2023| Dictionaries & silent auction program | [View CodePen](https://codepen.io/chandrikadeb7/full/NWGgWNv)|
-||| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 10|June 8, 2020| Published an article on **Geeksforgeeks** | [Visit Website](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)	|
+|Day 1|March 5, 2023| Intro to Python Programming, working with variables | [Udemy](https://www.udemy.com/course/100-days-of-code/)|
+|Day 2|March 6, 2023| Loops & Variables | [add links]()|
+|Day 3|March 9, 2023| control flow and operators | [add links]()|
+|Day 4|March 10, 2023| randomisations and lists | [add links]()|
+|Day 5|March 11, 2023| Python Loops | |[add links]()|
+|Day 6|March 12, 2023| Python Functions | [add link]()|
+|Day 7|March 13, 2023| beginner hangman program | []()|
+|Day 8|March 14, 2023| Function Parameters & Caesar Cipher | [add link]()|
+|Day 9|March 15, 2023| Dictionaries & silent auction program | [add links]()|
+|Day 10|March 16, 2023| Functions with outputs & recurssion | [add links]()	|
 |Day 11|June 9, 2020| Portfolio Website Update | [Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)|
 |Day 12|June 10, 2020| Beating Heart CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/yLYXBVg)|
 |Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
