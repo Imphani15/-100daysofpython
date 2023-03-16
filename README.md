@@ -15,7 +15,7 @@
 |Day 6|June 4, 2020| Submitted project for **30DaysOfKotlin** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 |Day 7|June 5, 2020| Event **Coderantine** | Event Over :white_check_mark:|
 |Day 8|June 6, 2020| Learnt Kotlin extensions & generics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
-|Day 9|June 7, 2020| Letter Codepen | [View CodePen](https://codepen.io/chandrikadeb7/full/NWGgWNv)|
+|Day 9|March 15, 2023| Dictionaries & silent auction program | [View CodePen](https://codepen.io/chandrikadeb7/full/NWGgWNv)|
 ||| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
 |Day 10|June 8, 2020| Published an article on **Geeksforgeeks** | [Visit Website](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)	|
 |Day 11|June 9, 2020| Portfolio Website Update | [Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)|
