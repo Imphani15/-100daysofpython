@@ -64,8 +64,8 @@
 |Day 54|July 22, 2020| **| [add links]()|
 |Day 55|July 23, 2020|  **| [add links]()|
 |Day 56|July 24, 2020| **| [add links]()|
-|Day 57|July 25, 2020| [add links]()|  
-|Day 58|July 26, 2020| [add links]()|  
+|Day 57|July 25, 2020|  ** |[add links]()|  
+|Day 58|July 26, 2020|   ** |[add links]()|  
 |Day 59|July 27, 2020| **| [add links]()|
 |Day 60|July 28, 2020| **| [add links]()|
 |Day 61|July 29, 2020| **| [add links]()|
